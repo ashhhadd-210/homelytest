@@ -44,3 +44,5 @@ next-env.d.ts
 
 # local SQLite
 /dev.db
+
+.vercel

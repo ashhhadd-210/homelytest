@@ -79,7 +79,7 @@ header, and the hero image is marked `priority` with `fetchPriority="high"`.
 | Motion | Framer Motion 12 (scroll progress only), CSS keyframes |
 | Maps | Google Maps embed and Maps JavaScript API |
 | Location and weather | Browser Geolocation, Google Geolocation API, ipapi.co, Open-Meteo |
-| Fonts | Geist via `next/font` |
+| Fonts | System UI font stack (Geist is loaded through `next/font` as a CSS variable) |
 | Linting | ESLint 9 with `eslint-config-next` |
 
 ## Engineering
